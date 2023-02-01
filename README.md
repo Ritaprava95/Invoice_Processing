@@ -1,2 +1,1 @@
-# Invoice_Processing
-Object detection in an invoice and get entities using deep learning
+#Custom Object detection in an Invoice.
