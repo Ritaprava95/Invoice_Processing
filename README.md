@@ -1,1 +1,1 @@
-#Custom Object detection in an Invoice.
+Custom Object detection in an Invoice.
